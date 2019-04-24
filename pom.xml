@@ -66,12 +66,12 @@
 		<repository>
 			<id>release</id>
 			<name>release</name>
-			<url>http://localhost:8081/artifactory/libs-release-local</url>
+			<url>http://lenovo-pc:8081/artifactory/libs-release-local</url>
 		</repository>
 		<snapshotRepository>
 			<id>snapshot</id>
 			<name>snapshot</name>
-			<url>http://localhost:8081/artifactory/libs-snapshot</url>
+			<url>http://lenovo-pc:8081/artifactory/libs-snapshot</url>
 		</snapshotRepository>
 
 	</distributionManagement>
