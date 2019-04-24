@@ -71,7 +71,7 @@
 		<snapshotRepository>
 			<id>snapshot</id>
 			<name>snapshot</name>
-			<url>http://lenovo-pc:8081/artifactory/libs-snapshot</url>
+			<url>http://lenovo-pc:8081/artifactory/libs-snapshot-local</url>
 		</snapshotRepository>
 
 	</distributionManagement>
